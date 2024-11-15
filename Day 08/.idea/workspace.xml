@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19813124-fdf6-4a0f-869f-8da650d1f113" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/app/src/main/java/com/dhanashri/fragmentapplication/fragments/EmailFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/app/src/main/java/com/dhanashri/fragmentapplication/fragments/PhoneFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/app/src/main/res/drawable/contactemail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/app/src/main/res/drawable/contactphone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/app/src/main/res/layout/email_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/FragmentApplication/app/src/main/res/layout/phone_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication1/app/src/main/java/com/dhanashri/productsapplication1/activity/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication1/app/src/main/java/com/dhanashri/productsapplication1/activity/RegisterActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication1/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/androidTest/java/com/dhanashri/app/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/java/com/dhanashri/app/activity/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/java/com/dhanashri/app/activity/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/java/com/dhanashri/app/activity/RegisterActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/java/com/dhanashri/app/dbhelper/DbHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/java/com/dhanashri/app/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/java/com/dhanashri/app/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/app/src/test/java/com/dhanashri/app/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 07/ProductsApplication12/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/androidTest/java/com/dhanashri/app/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/java/com/dhanashri/app/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/app/src/test/java/com/dhanashri/app/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdminApplication/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2okKVeU3euBDWCBI2XtIXDUUjxb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19813124-fdf6-4a0f-869f-8da650d1f113" name="Changes" comment="" />
+      <created>1731408159564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731408159564</updated>
+    </task>
+    <servers />
+  </component>
+</project>
